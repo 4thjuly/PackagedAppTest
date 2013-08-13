@@ -1,3 +1,4 @@
 document.addEventListener('DOMContentLoaded', function () {
-    // Do something
+  // Do something
+  console.log("DOM Content Loaded");  
 });
